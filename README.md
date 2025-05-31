@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Anderson 👋
 
-<!--
-**workamts/workamts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer specialized in HTML, CSS, and JavaScript.  
+I love crafting responsive, user-friendly, and accessible websites that deliver great user experiences.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Web Design
+- Web Accessibility (a11y)
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Goals
+- Building real-world frontend projects
+- Improving performance, accessibility, and responsive design
+
+### 📫 Contact Me
+- Email: workamts.dev@gmail.com
+- Portfolio: https://workamts.dev
+- LinkedIn: [LinkedIn Profile](https://)
+
+---
+
+*Let’s build something awesome together!*
+
