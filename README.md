@@ -21,7 +21,7 @@ I love crafting responsive, user-friendly, and accessible websites that deliver 
 🌐 **Portfolio:** [https://workamts.github.io](https://workamts.github.io)  
 💼 **Upwork:** [https://www.upwork.com/freelancers/~0179a587deec28a4ba](https://www.upwork.com/freelancers/~0179a587deec28a4ba)  
 💻 **Freelancer:** [https://www.freelancer.com/u/Workamts](https://www.freelancer.com/u/Workamts)  
-🎯 **Fiverr:** [https://es.fiverr.com/workamts](https://es.fiverr.com/workamts)  
+🎯 **Fiverr:** [https://www.fiverr.com/workamts](https://www.fiverr.com/workamts)  
 🧑‍💼 **Workana:** [https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2](https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/workamts](https://www.linkedin.com/in/workamts)  
 🌍 **We Work Remotely:** [https://weworkremotely.com](https://weworkremotely.com)  
