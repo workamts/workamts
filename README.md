@@ -24,6 +24,4 @@ I love crafting responsive, user-friendly, and accessible websites that deliver 
 🎯 **Fiverr:** [https://www.fiverr.com/workamts](https://www.fiverr.com/workamts)  
 🧑‍💼 **Workana:** [https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2](https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/workamts](https://www.linkedin.com/in/workamts)  
-🌍 **We Work Remotely:** [https://weworkremotely.com](https://weworkremotely.com)  
-🌐 **Remote OK:** [https://remoteok.com/@workamt](https://remoteok.com/@workamt)
 
