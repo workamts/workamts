@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anderson
+# Welcome to my github
 
 I'm a passionate **Frontend Developer** specialized in **HTML**, **CSS**, and **JavaScript**.  
 I love crafting responsive, user-friendly, and accessible websites that deliver great user experiences.
