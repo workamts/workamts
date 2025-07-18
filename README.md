@@ -17,12 +17,12 @@ I love crafting responsive, user-friendly, and accessible websites that deliver 
 - Expanding my freelance opportunities
 
 ## Contact Me
-- Email: workamts.dev@gmail.com
-- WhatsApp: +57 313 8025867
-- Portfolio: [https://workamts.github.io/](https://workamts.github.io/)
-- LinkedIn: [https://www.linkedin.com/in/workamts](https://www.linkedin.com/in/workamts)
-- Upwork: [https://www.upwork.com/freelancers/~0179a587deec28a4ba](https://www.upwork.com/freelancers/~0179a587deec28a4ba)
-- Freelancer: [https://www.freelancer.com/u/Workamts](https://www.freelancer.com/u/Workamts)
-- Fiverr: [https://www.fiverr.com/workamts](https://www.fiverr.com/workamts)
-- Workana: [https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2](https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2)
+**Email:** [workamts.dev@gmail.com](mailto:workamts.dev@gmail.com)  
+**Portfolio:** [https://workamts.github.io](https://workamts.github.io)
+**LinkedIn:** [https://www.linkedin.com/in/workamts](https://www.linkedin.com/in/workamts) 
+**Upwork:** [https://www.upwork.com/freelancers/~0179a587deec28a4ba](https://www.upwork.com/freelancers/~0179a587deec28a4ba)  
+**Freelancer:** [https://www.freelancer.com/u/Workamts](https://www.freelancer.com/u/Workamts)  
+**Fiverr:** [https://www.fiverr.com/workamts](https://www.fiverr.com/workamts)  
+**Workana:** [https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2](https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2)  
+
 
