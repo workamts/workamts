@@ -1,10 +1,13 @@
 # Welcome to my github
 
-I'm a passionate **Frontend Developer** specialized in **HTML**, **CSS**, and **JavaScript**.  
-I love crafting responsive, user-friendly, and accessible websites that deliver great user experiences.
+I'm a passionate Frontend Designer & Developer specialized in **HTML**, **CSS**, **JavaScript** and **React**.
+I design interfaces in Figma and enjoy crafting visually appealing, responsive, and accessible websites that deliver excellent user experiences from both a design and development perspective.
 
 ## Skills
 - HTML5, CSS3, JavaScript (ES6+)
+- Bootstrap
+- React
+- Figma (UI/UX Design)
 - Responsive Web Design
 - Web Accessibility (a11y)
 - SEO Fundamentals
@@ -12,9 +15,9 @@ I love crafting responsive, user-friendly, and accessible websites that deliver 
 - Git & GitHub
 
 ## Current Goals
-- Building real-world frontend projects
+- Building real-world frontend projects with strong UI/UX principles
 - Improving performance, accessibility, and responsive design
-- Expanding my freelance opportunities
+- Expand my job opportunities
 
 ## Contact Me
 **Email:** [workamts.dev@gmail.com](mailto:workamts.dev@gmail.com)  
