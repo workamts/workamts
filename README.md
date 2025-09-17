@@ -40,6 +40,7 @@ I am proactive, responsible, and always eager to **learn new technologies** and 
 
 
 ## GitHub Stats:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=workamts&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=workamts&theme=dark&layout=compact&hide_border=true)
