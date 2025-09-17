@@ -1,5 +1,7 @@
 # Welcome to my github
 
+![Banner](https://ik.imagekit.io/workamts/Linkedin%20banner.png?updatedAt=1758069170646)
+
 Frontend Designer & Developer | HTML, CSS, JS, React, Figma  
 I create **responsive, accessible, and visually appealing websites** while designing clean UI in Figma.
 
