@@ -30,10 +30,13 @@ I am proactive, responsible, and always eager to **learn new technologies** and 
 
 ## Contact
 
-- **Email:** [workamts.dev@gmail.com](mailto:workamts.dev@gmail.com)  
-- **WhatsApp:** [+57 313 802 5867](https://wa.me/573138025867)  
-- **Portfolio:** [workamts.github.io](https://workamts.github.io)  
-- **LinkedIn:** [linkedin.com/in/workamts](https://www.linkedin.com/in/workamts)  
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&logo=github)](https://workamts.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/workamts)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workamts.dev@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573124696123)
 
 
 ## GitHub Stats:
