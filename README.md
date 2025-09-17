@@ -1,32 +1,41 @@
 # Welcome to my github
 
-I'm a passionate Frontend Designer & Developer specialized in **HTML**, **CSS**, **JavaScript** and **React**.
-I design interfaces in Figma and enjoy crafting visually appealing, responsive, and accessible websites that deliver excellent user experiences from both a design and development perspective.
+Frontend Designer & Developer | HTML, CSS, JS, React, Figma  
+I create **responsive, accessible, and visually appealing websites** while designing clean UI in Figma.
+
+
+## About Me
+
+I'm a passionate Frontend Designer & Developer specialized in **HTML, CSS, JavaScript, and React**.  
+I enjoy crafting **modern, responsive, and accessible websites** that deliver excellent user experiences from both a design and development perspective.
+
+I am proactive, responsible, and always eager to **learn new technologies** and improve my skills in web development.
+
 
 ## Skills
-- HTML5, CSS3, JavaScript (ES6+)
-- Bootstrap
-- React
-- Figma (UI/UX Design)
-- Responsive Web Design
-- Web Accessibility (a11y)
-- SEO Fundamentals
-- Performance Optimization
-- Git & GitHub
+
+- **Languages & Markup:** HTML5, CSS3, JavaScript (ES6+)  
+- **Frameworks & Tools:** Bootstrap, React, Git & GitHub, Figma  
+- **Practices:** Responsive Web Design, Web Accessibility (a11y), SEO basics, Performance Optimization
+
 
 ## Current Goals
-- Building real-world frontend projects with strong UI/UX principles
-- Improving performance, accessibility, and responsive design
-- Expand my job opportunities
 
-## Contact Me
-**Email:** [workamts.dev@gmail.com](mailto:workamts.dev@gmail.com)  
-**WhatsApp:** [+57 313 802 5867](https://wa.me/573138025867)  
-**Portfolio:** [https://workamts.github.io](https://workamts.github.io)  
-**LinkedIn:** [https://www.linkedin.com/in/workamts](https://www.linkedin.com/in/workamts)  
-**Upwork:** [https://www.upwork.com/freelancers/~0179a587deec28a4ba](https://www.upwork.com/freelancers/~0179a587deec28a4ba)  
-**Freelancer:** [https://www.freelancer.com/u/Workamts](https://www.freelancer.com/u/Workamts)  
-**Fiverr:** [https://www.fiverr.com/workamts](https://www.fiverr.com/workamts)  
-**Workana:** [https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2](https://www.workana.com/freelancer/fcf206ab3db30166087855a1bce7e1d2)  
+- Build real-world frontend projects with strong **UI/UX principles**  
+- Improve **performance, accessibility, and responsive design**  
+- Expand **professional opportunities** and collaborate on interesting projects
 
+
+## Contact
+
+- **Email:** [workamts.dev@gmail.com](mailto:workamts.dev@gmail.com)  
+- **WhatsApp:** [+57 313 802 5867](https://wa.me/573138025867)  
+- **Portfolio:** [workamts.github.io](https://workamts.github.io)  
+- **LinkedIn:** [linkedin.com/in/workamts](https://www.linkedin.com/in/workamts)  
+
+
+## GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=workamts&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=workamts&theme=dark&layout=compact&hide_border=true)
 
