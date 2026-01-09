@@ -8,10 +8,10 @@ I create **responsive, accessible, and visually appealing websites** while desig
 
 ## About Me
 
-I'm a passionate Frontend Designer & Developer specialized in **HTML, CSS, JavaScript, and React**.  
-I enjoy crafting **modern, responsive, and accessible websites** that deliver excellent user experiences from both a design and development perspective.
+I am a web designer and developer specializing in HTML, CSS, JavaScript, and React.
+I focus on creating modern, responsive, and accessible websites, paying close attention to both visual design and development quality, with the goal of providing excellent user experiences.
 
-I am proactive, responsible, and always eager to **learn new technologies** and improve my skills in web development.
+I am a proactive, responsible, and continuously learning individual, always interested in improving my skills and staying up-to-date with new web development technologies.
 
 
 ## Skills
