@@ -2,7 +2,7 @@
 
 ![Banner](https://ik.imagekit.io/workamts/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 
-Frontend Designer & Developer | HTML, CSS, JS, React, Figma  
+Web Developer and UI/UX Designer | HTML, CSS, JS, React, Figma  
 I create **responsive, accessible, and visually appealing websites** while designing clean UI in Figma.
 
 
